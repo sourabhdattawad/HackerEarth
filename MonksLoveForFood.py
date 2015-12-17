@@ -18,13 +18,4 @@ for i in range(n):
     
             
     
-    
-
-# <codecell>
-
-a=[]
-len(a)==0
-
-# <codecell>
-
-
+   
